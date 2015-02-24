@@ -1,0 +1,34 @@
+{
+  "name": "in-interval",
+  "version": "0.0.0",
+  "description": "Determines whether the number in the specified interval",
+  "license": "MIT",
+  "repository": "Semigradsky/in-interval",
+  "author": {
+    "name": "Dmitry Semigradsky",
+    "email": "semigradskyd@gmail.com",
+    "url": "https://github.com/Semigradsky"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "mathematics",
+    "interval",
+    "math",
+    "check",
+    "include"
+  ],
+  "dependencies": {
+    "math-interval-parser": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
