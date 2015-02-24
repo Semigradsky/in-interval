@@ -1,6 +1,6 @@
 {
   "name": "in-interval",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Determines whether the number in the specified interval",
   "license": "MIT",
   "repository": "Semigradsky/in-interval",
