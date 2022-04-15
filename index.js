@@ -1,6 +1,6 @@
 'use strict';
 
-var parse = require('math-interval-parser');
+var parse = require('math-interval-parser').default;
 
 function includes(number, interval) {
 	if (interval.from.value === number) {

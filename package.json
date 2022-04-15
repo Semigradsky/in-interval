@@ -1,6 +1,6 @@
 {
   "name": "in-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determines whether the number in the specified interval",
   "license": "MIT",
   "repository": "Semigradsky/in-interval",
@@ -26,7 +26,7 @@
     "include"
   ],
   "dependencies": {
-    "math-interval-parser": "^1.0.0"
+    "math-interval-parser": "^2.0.1"
   },
   "devDependencies": {
     "mocha": "^2.1.0"
