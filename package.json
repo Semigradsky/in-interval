@@ -10,10 +10,10 @@
     "url": "https://github.com/Semigradsky"
   },
   "engines": {
-    "node": ">=16.14.0"
+    "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "node ./node_modules/mocha/bin/mocha"
   },
   "files": [
     "index.js"
@@ -29,6 +29,6 @@
     "math-interval-parser": "^2.0.1"
   },
   "devDependencies": {
-    "mocha": "^9.2.2"
+    "mocha": "^2.1.0"
   }
 }
